@@ -8,5 +8,5 @@ the need of mapping your objects to any table.
 So NeoDatis ODB will increase your productivity and let you concentrate on your business
 logic.
 
-#Note 
+# Note 
 NeoDatis originally developed at www.neodatis.org by Olivier Smadja
